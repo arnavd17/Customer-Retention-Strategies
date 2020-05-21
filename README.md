@@ -70,6 +70,6 @@ The new features are defined as follows:
 
 ## REPOSITORY DETAILS
 Access -
-1. [Report - Details of Approach and Results](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Instacart%20-%20Customer%20Segmentation%20%26%20Association%20Rule%20Mining.pdf)
-2. [Data](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Instacart_EDA.ipynb)
-3. [Code](https://github.com/arnavd17/Instacart-Market-Basket-Analysis/blob/master/Association_rule_mining%20-%20Generators.ipynb)
+1. [Report - Details of Approach and Results](https://github.com/arnavd17/Customer-Retention-Strategies/blob/master/Report%20-%20Details%20of%20Approach%20and%20results.pdf)
+2. [Data](https://github.com/arnavd17/Customer-Retention-Strategies/blob/master/data/Online%20Retail.xlsx)
+3. [Code](https://github.com/arnavd17/Customer-Retention-Strategies/blob/master/code/script_final.ipynb)
